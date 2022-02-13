@@ -1,0 +1,31 @@
+{
+    "TypeMapping": [
+        {
+            "ColumnName": "ID",
+            "SourceDataType": "VARCHAR2",
+            "SourceDataFormat": "",
+            "SourceNullable": "TRUE"
+        },
+        {
+            "ColumnName": "NAME",
+            "SourceDataType": "VARCHAR2",
+            "SourceDataFormat": "",
+            "SourceNullable": "TRUE"
+        },
+        {
+            "ColumnName": "SURNAME",
+            "SourceDataType": "VARCHAR2",
+            "SourceDataFormat": "",
+            "SourceNullable": "TRUE"
+        },
+        {
+            "ColumnName": "BIRTH_DATE",
+            "SourceDataType": "DATE",
+            "SourceDataFormat": "dd/MM/yyyy",
+            "SourceNullable": "TRUE"
+        }
+    ],
+    "DecimalSeparator": ".",
+    "FieldSeparator": "|",
+    "StringSeparator": "\"\"\"\""
+}
