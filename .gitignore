@@ -1,0 +1,12 @@
+# VSCode
+.vs/
+
+# virtualenv
+.venv
+venv/
+ENV/
+env/
+
+# folders
+validator/inputs/
+validator/metadata/
